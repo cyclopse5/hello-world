@@ -1,3 +1,2 @@
 # hello-world
-first github repository
-Readme edited. Nuff said.
+first github repository. Nuff said.
